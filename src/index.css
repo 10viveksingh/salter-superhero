@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+background: #dcdcdc;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/*---------------SuperHero CSS-----------------*/
+
+.navbar{
+  height: 60px;
+  border: 1px solid rgb(238, 165, 162);
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  background: white;
+}
+
+#logo {
+  font-size: 40px;
+  font-weight: 800;
+  color: crimson;
+}
+
+.page {
+  width: 250px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-left: 550px;
+}
+
+#search-bar {
+  width: 350%;
+  height: 50px;
+  padding-left: 10px;
+  font-size: 20px;
+  margin-bottom: 50px;
+  border-bottom-color: #ee4040;
+}
+
+.search-result {
+  display: flex;
+  background: #fff;
+  box-sizing: border-box;
+  width: 875px;
+  margin-bottom: 10px; 
+}
+
+.search-result .left img {
+ height: 200px;
+ width: 200px;
+ margin-bottom: -2px;
+}
+
+.search-result .right {
+  padding-left: 30px;
+  margin-left: 45px;
+  color: grey;
+}
+
+.search-result .right h3 {
+  margin-top: 25px;
+  color: rgb(17, 17, 17);
+}
+
+.stats div {
+  font-size: 15px;
+}
+
+.search-result .right span {
+  color: red;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+ 
+}
+/*-----------------------end------------------------------*/
