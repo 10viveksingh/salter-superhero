@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/salter-superhero/static/css/main.56872956.css",
+    "main.js": "/github.io/salter-superhero/static/js/main.8810fd7f.js",
+    "index.html": "/github.io/salter-superhero/index.html",
+    "main.56872956.css.map": "/github.io/salter-superhero/static/css/main.56872956.css.map",
+    "main.8810fd7f.js.map": "/github.io/salter-superhero/static/js/main.8810fd7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56872956.css",
+    "static/js/main.8810fd7f.js"
+  ]
+}
