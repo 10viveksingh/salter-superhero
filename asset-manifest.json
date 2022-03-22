@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/10viveksingh/salter-superhero/static/css/main.56872956.css",
-    "main.js": "/10viveksingh/salter-superhero/static/js/main.8810fd7f.js",
-    "index.html": "/10viveksingh/salter-superhero/index.html",
-    "main.56872956.css.map": "/10viveksingh/salter-superhero/static/css/main.56872956.css.map",
-    "main.8810fd7f.js.map": "/10viveksingh/salter-superhero/static/js/main.8810fd7f.js.map"
+    "main.css": "/salter-superhero/static/css/main.56872956.css",
+    "main.js": "/salter-superhero/static/js/main.8810fd7f.js",
+    "index.html": "/salter-superhero/index.html",
+    "main.56872956.css.map": "/salter-superhero/static/css/main.56872956.css.map",
+    "main.8810fd7f.js.map": "/salter-superhero/static/js/main.8810fd7f.js.map"
   },
   "entrypoints": [
     "static/css/main.56872956.css",
